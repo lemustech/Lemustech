@@ -1,11 +1,11 @@
 <div align="center">
 
   <br />
-  <img src="http://lemustech.net/LEMUSTECH2.png" width="120" alt="Lemustech Logo" />
+  <img src="http://lemustech.net/LEMUSTECH2.png" width="120" style="background-color: #161618; border-radius: 50%; padding: 16px;" alt="Lemustech Logo" />
   
   # Portafolio Digital
   
-  <p><strong>Luis Lemus · Full-Stack Web Developer & IT Systems Specialist</strong></p>
+  <p><strong>Full-Stack Web Developer & IT Systems Specialist</strong></p>
   
   <p>
     <em>Diseño de interfaces web de alto rendimiento, arquitecturas en tiempo real y soluciones tecnológicas.</em>
@@ -13,7 +13,6 @@
 
   <br />
 
-  <!-- Enlaces de contacto estilo minimalista -->
   <a href="https://lemustech.net" target="_blank">
     <img src="https://img.shields.io/badge/Website-1D1D1F?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
   </a>
@@ -80,7 +79,6 @@
 ### 📊 **Métricas de GitHub**
 
 <div align="center">
-  <!-- Tarjetas estables que no dan error de límite de peticiones -->
   <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lemustech&theme=github_dark" alt="Perfil Resumen" />
   
   <br /><br />
