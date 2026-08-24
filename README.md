@@ -1,7 +1,7 @@
 <div align="center">
 
   <br />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Apple-Dark.svg" width="52" height="52" alt="Apple" />
+  <img src="http://lemustech.net/LEMUSTECH2.png" width="120" alt="Lemustech Logo" />
   
   # Portafolio Digital
   
