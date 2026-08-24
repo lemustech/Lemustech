@@ -57,20 +57,27 @@
 
 ### 📂 **Proyectos Destacados**
 
-#### 🌐 Plataformas Web & E-Commerce
-* **Lemustech Manager & Store:** Sistema CRM completo y e-commerce interactivo para la gestión de suscripciones digitales, seguimiento de clientes, control de renovaciones e integración de pagos.
-* **Catálogos Dinámicos:** Múltiples aplicaciones web conectadas a Firebase con generación automática de pedidos directos hacia WhatsApp.
-* **Dashboard Financiero Corporativo:** Aplicación web en tiempo real estructurada para la categorización mensual de gastos, cuentas por pagar y exportación de reportes a Excel.
+| 🌐 Plataformas Web & E-Commerce | |
+| :--- | :--- |
+| **Lemustech Manager & Store** | Sistema CRM completo y e-commerce interactivo para la gestión de suscripciones digitales, seguimiento de clientes, control de renovaciones e integración de pagos. |
+| **Catálogos Dinámicos** | Múltiples aplicaciones web conectadas a Firebase con generación automática de pedidos directos hacia WhatsApp. |
+| **Dashboard Financiero** | Aplicación web en tiempo real estructurada para la categorización mensual de gastos, cuentas por pagar y exportación de reportes a Excel. |
 
-#### ⚙️ Sistemas, Automatización & Logística
-* **Lemustech SystemBoost Hub:** Suite multiplataforma (Windows, macOS, Linux) orientada al diagnóstico, instalación automatizada de paquetes y optimización profunda del sistema.
-* **WhatsApp CRM Bots:** Desarrollo de bots y scripts de automatización utilizando Node.js (`whatsapp-web.js`), Python y Selenium para el despacho de notificaciones y atención al cliente.
-* **[Sistemas de Rastreo & Gestión (T&K Company)](http://lemustech.net/clientes/tyk/index.html):** Interfaz web corporativa en tiempo real para el seguimiento de logística, etapas de pedidos, inventarios y estatus de pagos.
+<br />
 
-#### 🎨 UI/UX & Experiencias Interactivas
-* **[AsaPokeTCG - Experiencia Retro](https://asapoketcg.com/):** Interfaz inmersiva pixel-art estilo Game Boy utilizando Web Audio API y animaciones CSS responsivas para una tienda TCG.
-* **[Expo Gráfica - Landing & Registros](http://lemustech.net/clientes/expografica/expo.html):** Desarrollo de interfaces y plantillas responsivas en HTML estructuradas para el registro de eventos de exhibición y pases QR.
-* **Tarjetas Digitales Interactivas (vCards):** Interfaces web interactivas compatibles con tecnología NFC para perfiles corporativos ([Ver Demo MG](http://lemustech.net/clientes/mg/demo.html)) y portafolios interactivos para mascotas ([Ver Demo Mascota](http://lemustech.net/clientes/mascota/index.html)).
+| ⚙️ Sistemas, Automatización & Logística | |
+| :--- | :--- |
+| **Lemustech SystemBoost Hub** | Suite multiplataforma (Windows, macOS, Linux) orientada al diagnóstico, instalación automatizada de paquetes y optimización profunda del sistema. |
+| **WhatsApp CRM Bots** | Desarrollo de bots y scripts de automatización utilizando Node.js (`whatsapp-web.js`), Python y Selenium para el despacho de notificaciones y atención. |
+| **[Rastreo & Gestión (T&K Company)](http://lemustech.net/clientes/tyk/index.html)** | Interfaz web corporativa en tiempo real para el seguimiento de logística, etapas de pedidos, inventarios y estatus de pagos. |
+
+<br />
+
+| 🎨 UI/UX & Experiencias Interactivas | |
+| :--- | :--- |
+| **[AsaPokeTCG (Retro)](https://asapoketcg.com/)** | Interfaz inmersiva pixel-art estilo Game Boy utilizando Web Audio API y animaciones CSS responsivas para una tienda TCG. |
+| **[Expo Gráfica (Landing)](http://lemustech.net/clientes/expografica/expo.html)** | Desarrollo de interfaces y plantillas responsivas en HTML estructuradas para el registro de eventos de exhibición y pases QR. |
+| **Tarjetas Digitales (vCards)** | Interfaces web interactivas compatibles con NFC para perfiles corporativos ([MG](http://lemustech.net/clientes/mg/demo.html)) y portafolios de mascotas ([Mascota](http://lemustech.net/clientes/mascota/index.html)). |
 
 <br />
 
