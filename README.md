@@ -1,11 +1,11 @@
 <div align="center">
 
   <br />
-  <img src="http://lemustech.net/LEMUSTECH2.png" width="120" style="background-color: #161618; border-radius: 50%; padding: 16px;" alt="Lemustech Logo" />
+  <img src="http://lemustech.net/lemustech3.jpeg" width="120" alt="Lemustech Logo" />
   
   # Portafolio Digital
   
-  <p><strong>Full-Stack Web Developer & IT Systems Specialist</strong></p>
+  <p><strong>Luis Lemus · Full-Stack Web Developer & IT Systems Specialist</strong></p>
   
   <p>
     <em>Diseño de interfaces web de alto rendimiento, arquitecturas en tiempo real y soluciones tecnológicas.</em>
