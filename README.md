@@ -1,55 +1,68 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,26,45&height=180&section=header&text=Luis%20Lemus&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-  <h3>🚀 Full-Stack Web Developer & IT Systems Specialist</h3>
-  <p>Construyendo software a medida, herramientas de automatización y soluciones web de alto rendimiento.</p>
-
+  <br />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Apple-Dark.svg" width="48" height="48" alt="Apple" />
+  
+  # Luis Lemus
+  
+  <p><strong>Software Engineering & Systems Architecture</strong></p>
+  
   <p>
-    <a href="https://github.com/Lemustech"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Contacto-007ACC?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email" /></a>
+    <em>Crafting clean, responsive web platforms, real-time architectures, and automated systems.</em>
   </p>
+
+  <br />
+
+  <!-- Insignias minimalistas estilo Cupertino -->
+  <a href="mailto:tuemail@dominio.com">
+    <img src="https://img.shields.io/badge/Email-1D1D1F?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/TU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-1D1D1F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Lemustech">
+    <img src="https://img.shields.io/badge/GitHub-1D1D1F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
 </div>
 
----
-
-### 💻 Sobre mí
-
-- 🌐 Desarrollo frontend y backend enfocado en interfaces rápidas, modernas y reactivas.
-- ⚡ Especialista en desarrollo de CRMs a medida, dashboards administrativos y flujos de automatización.
-- 🛠️ Soporte técnico integral, administración de bases de datos e infraestructura de sistemas (Windows, macOS, Linux).
+<br />
 
 ---
 
-### 🛠️ Tecnologías & Herramientas
+### **About**
+
+An engineer-focused approach to building digital products: modular codebases, high-performance interfaces, and resilient infrastructure.
+
+* **Frontend & UX:** React, JavaScript / TypeScript, Tailwind CSS, GSAP.
+* **Backend & Cloud:** Node.js, Python, Firebase (Auth, Firestore, Realtime DB).
+* **Systems & Environment:** macOS, Linux, Windows, Shell Scripting, Custom Network Configs.
+
+<br />
+
+---
+
+### **Core Stack**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,express,python,firebase,git,github,linux,apple,windows" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,python,firebase,git,apple,linux,windows&theme=dark" alt="Tech Stack" />
 </div>
+
+<br />
 
 ---
 
-### 📊 Estadísticas de GitHub
+### **Activity & Metrics**
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Lemustech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemustech&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lemustech&show_icons=true&theme=dark&bg_color=00000000&hide_border=false&border_color=333333&title_color=ffffff&text_color=86868b&icon_color=0071e3" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemustech&layout=compact&theme=dark&bg_color=00000000&hide_border=false&border_color=333333&title_color=ffffff&text_color=86868b" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lemustech&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-### 📌 Áreas de Enfoque & Proyectos
-
-* **Aplicaciones Web & Dashboards:** Plataformas reactivas creadas con React, Tailwind CSS y Node.js.
-* **Sistemas en Tiempo Real:** Integración de bases de datos y autenticación con Firebase.
-* **Automatización de Flujos:** Scripts y bots para gestión de mensajería y procesos de atención.
-* **Utilidades Multiplataforma:** Soluciones técnicas y scripts de diagnóstico para optimización de sistemas.
+<br />
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,26,45&height=100&section=footer" width="100%" />
+  <sub>Designed with precision. Lemustech • 2026</sub>
 </div>
