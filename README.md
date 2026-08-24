@@ -50,9 +50,9 @@
 ### 📈 **Telemetría de GitHub**
 
 <div align="center">
-  <!-- Cuadrícula de 2 columnas para Stats y Racha de Commits -->
+  <!-- Cuadrícula de 2 columnas con servidores 100% estables -->
   <a href="https://github.com/Lemustech">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lemustech&show_icons=true&theme=dark&bg_color=161618&border_color=2d2d2d&title_color=ffffff&text_color=a1a1a6&icon_color=2997ff&hide_border=false" alt="Estadísticas de GitHub" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lemustech&theme=github_dark" alt="Estadísticas de GitHub" />
   </a>
   <a href="https://github.com/Lemustech">
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lemustech&theme=dark&background=161618&border=2d2d2d&stroke=2d2d2d&ring=2997ff&fire=2997ff&currStreakNum=ffffff&sideNums=a1a1a6&currStreakLabel=2997ff&sideLabels=a1a1a6&dates=86868b&hide_border=false" alt="Racha de Commits" />
@@ -64,14 +64,4 @@
   <a href="https://github.com/Lemustech">
     <img width="98.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lemustech&bg_color=161618&color=2997ff&line=2997ff&point=ffffff&area=true&hide_border=false&border_color=2d2d2d" alt="Gráfico de Actividad" />
   </a>
-</div>
-
-<br />
-
----
-
-<div align="center">
-  <sub>Diseñado con precisión · <b>Lemustech</b></sub>
-  <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,30,32&height=15&section=footer" width="100%" />
 </div>
