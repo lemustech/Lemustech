@@ -60,9 +60,8 @@
 
 <div align="center">
 
-  <!-- Fila 1: Stats Principales y Métricas Compactas (Apple Dark Theme) -->
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lemustech&theme=github_dark" alt="GitHub Profile Details" />
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lemustech&show_icons=true&theme=dark&bg_color=161618&border_color=2d2d2d&title_color=f5f5f7&text_color=a1a1a6&icon_color=2997ff" alt="Estadísticas de GitHub" />
+  <!-- Fila 1: Resumen de Perfil (El que ya te cargó correctamente) -->
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lemustech&theme=github_dark" alt="GitHub Profile Details" />
 
   <br /><br />
 
@@ -71,7 +70,7 @@
 
   <br /><br />
 
-  <!-- Fila 3: Trophies / Logros en formato Bento minimalista -->
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Lemustech&theme=darkhub&no-frame=false&no-bg=false&margin_w=8&margin_h=8" alt="Logros de GitHub" />
+  <!-- Fila 3: Tarjeta de Métricas y Commits (Servidor estable Denoflow) -->
+  <img width="98%" src="https://github-readme-stats-fast.deno.dev/api?username=Lemustech&show_icons=true&theme=dark&bg_color=161618&border_color=2d2d2d&title_color=f5f5f7&text_color=a1a1a6&icon_color=2997ff&hide_border=false" alt="Estadísticas de GitHub" />
 
 </div>
