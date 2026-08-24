@@ -60,22 +60,18 @@
 
 <div align="center">
 
-  <!-- Fila 1: Resumen General y Racha de Commits -->
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Lemustech&show_icons=true&theme=dark&bg_color=161618&hide_border=false&border_color=2d2d2d&title_color=f5f5f7&text_color=a1a1a6&icon_color=2997ff&rank_icon=github" alt="Estadísticas de GitHub" />
-  <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lemustech&theme=dark&background=161618&border=2d2d2d&stroke=2d2d2d&ring=2997ff&fire=2997ff&currStreakNum=f5f5f7&sideNums=a1a1a6&currStreakLabel=2997ff&sideLabels=a1a1a6&dates=86868b" alt="Racha de Actividad" />
+  <!-- Fila 1: Stats Principales y Métricas Compactas (Apple Dark Theme) -->
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lemustech&theme=github_dark" alt="GitHub Profile Details" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lemustech&show_icons=true&theme=dark&bg_color=161618&border_color=2d2d2d&title_color=f5f5f7&text_color=a1a1a6&icon_color=2997ff" alt="Estadísticas de GitHub" />
 
   <br /><br />
 
-  <!-- Fila 2: Lenguajes Más Usados (Card Ancha Minimalista) -->
-  <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemustech&layout=compact&langs_count=6&theme=dark&bg_color=161618&hide_border=false&border_color=2d2d2d&title_color=f5f5f7&text_color=a1a1a6" alt="Lenguajes Principales" />
+  <!-- Fila 2: Curva de Actividad Semanal -->
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lemustech&bg_color=161618&color=2997ff&line=2997ff&point=f5f5f7&area=true&hide_border=false&border_color=2d2d2d" alt="Curva de Actividad" />
 
   <br /><br />
 
-  <!-- Fila 3: Gráfico Visual de Contribuciones -->
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lemustech&bg_color=161618&color=2997ff&line=2997ff&point=f5f5f7&area=true&hide_border=true" alt="Curva de Actividad" />
+  <!-- Fila 3: Trophies / Logros en formato Bento minimalista -->
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Lemustech&theme=darkhub&no-frame=false&no-bg=false&margin_w=8&margin_h=8" alt="Logros de GitHub" />
 
-</div>
-
-<div align="center">
-  <sub>Portafolio Digital · Lemustech</sub>
 </div>
