@@ -1,7 +1,9 @@
 <div align="center">
 
+  <img src="banner-luis-lemus-github.jpg" alt="Luis Lemus · Full-Stack Web Developer & IT Systems Specialist" width="100%" />
+
   <br />
-  <img src="http://lemustech.net/lemustech3.jpeg" width="120" alt="Lemustech Logo" />
+  <img src="https://lemustech.net/lemustech3.jpeg" width="120" alt="Lemustech Logo" />
   
   # Portafolio Digital
   
@@ -60,7 +62,10 @@
 | 🌐 Plataformas Web & E-Commerce | |
 | :--- | :--- |
 | **Lemustech Manager & Store** | Sistema CRM completo y e-commerce interactivo para la gestión de suscripciones digitales, seguimiento de clientes, control de renovaciones e integración de pagos. |
+| **[NegociOS Pro](https://github.com/lemustech/negociOS)** | Sistema administrativo y punto de venta (POS) en tiempo real: ventas, inventario y reportes sincronizados con Firebase, accesible desde cualquier dispositivo. |
+| **[GV Soluciones Administrativas](https://solybusiness.com/gvsoluciones)** | Suite administrativa empresarial en tiempo real (Vue + Firebase) con integración por WhatsApp para pedidos y notificaciones. |
 | **Catálogos Dinámicos** | Múltiples aplicaciones web conectadas a Firebase con generación automática de pedidos directos hacia WhatsApp. |
+| **[Novabrands](https://github.com/lemustech/novabrands)** | Catálogo e-commerce de gorras premium (Premium Headwear) conectado a Firebase, con diseño responsive y enfoque mobile-first. |
 | **Dashboard Financiero** | Aplicación web en tiempo real estructurada para la categorización mensual de gastos, cuentas por pagar y exportación de reportes a Excel. |
 
 <br />
@@ -69,15 +74,15 @@
 | :--- | :--- |
 | **Lemustech SystemBoost Hub** | Suite multiplataforma (Windows, macOS, Linux) orientada al diagnóstico, instalación automatizada de paquetes y optimización profunda del sistema. |
 | **WhatsApp CRM Bots** | Desarrollo de bots y scripts de automatización utilizando Node.js (`whatsapp-web.js`), Python y Selenium para el despacho de notificaciones y atención. |
-| **[Rastreo & Gestión (T&K Company)](http://lemustech.net/clientes/tyk/index.html)** | Interfaz web corporativa en tiempo real para el seguimiento de logística, etapas de pedidos, inventarios y estatus de pagos. |
+| **[Rastreo & Gestión (T&K Company)](https://lemustech.net/clientes/tyk/index.html)** | Interfaz web corporativa en tiempo real para el seguimiento de logística, etapas de pedidos, inventarios y estatus de pagos. |
 
 <br />
 
 | 🎨 UI/UX & Experiencias Interactivas | |
 | :--- | :--- |
 | **[AsaPokeTCG (Retro)](https://asapoketcg.com/)** | Interfaz inmersiva pixel-art estilo Game Boy utilizando Web Audio API y animaciones CSS responsivas para una tienda TCG. |
-| **[Expo Gráfica (Landing)](http://lemustech.net/clientes/expografica/expo.html)** | Desarrollo de interfaces y plantillas responsivas en HTML estructuradas para el registro de eventos de exhibición y pases QR. |
-| **Tarjetas Digitales (vCards)** | Interfaces web interactivas compatibles con NFC para perfiles corporativos ([MG](http://lemustech.net/clientes/mg/demo.html)) y portafolios de mascotas ([Mascota](http://lemustech.net/clientes/mascota/index.html)). |
+| **[EXPO GPM 2026](https://lemustech.net/clientes/expografica)** | Landing oficial de la 7ma edición del evento de Gráfica, Publicidad y Marketing (Caracas): registro de asistentes, pases QR y contacto directo por WhatsApp. |
+| **Tarjetas Digitales (vCards)** | Interfaces web interactivas compatibles con NFC para perfiles corporativos ([MG](https://lemustech.net/clientes/mg/demo.html)) y portafolios de mascotas ([Lucky Paws Pet Services](https://lemustech.net/clientes/mascota)). |
 
 <br />
 
