@@ -6,6 +6,10 @@
 
 Fundador de **Lemustech Co.** Construyo **sistemas administrativos, e-commerce y aplicaciones web en tiempo real** para negocios que necesitan vender y operar sin fricción — y doy soporte técnico integral en Windows, macOS y Linux.
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1100&color=C6D92E&center=true&vCenter=true&width=760&lines=Sistemas+administrativos+en+tiempo+real;E-commerce+que+vende+por+WhatsApp;Automatizaci%C3%B3n+y+bots+a+medida;Soporte+t%C3%A9cnico+Windows+%C2%B7+macOS+%C2%B7+Linux" alt="Especialidades" />
+</div>
+
 <a href="https://lemustech.net" target="_blank">
   <img src="https://img.shields.io/badge/Website-1D1D1F?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
 </a>
@@ -71,6 +75,10 @@ Fundador de **Lemustech Co.** Construyo **sistemas administrativos, e-commerce y
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemustech&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
   <br /><br />
   <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lemustech&bg_color=161618&color=2997ff&line=2997ff&point=f5f5f7&area=true&hide_border=false&border_color=2d2d2d" alt="Curva de Actividad" />
+  <br /><br />
+  <img src="https://streak-stats.demolab.com?user=lemustech&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+  <br /><br />
+  <img src="https://github-profile-trophy.vercel.app/?username=lemustech&theme=darkhub&no-frame=true" alt="Trofeos de GitHub" />
 </div>
 
 ---
@@ -81,6 +89,11 @@ Fundador de **Lemustech Co.** Construyo **sistemas administrativos, e-commerce y
 
 📲 **WhatsApp:** +58 424-1353496 · ✉️ **Soporte@Lemustech.net** · 📸 **@Lemustech.ve**
 
+<img src="logo.svg" width="96" alt="Logo Lemustech Co." />
+
 <sub>Lemustech Co. · Hecho desde Venezuela 🇻🇪</sub>
+
+<br />
+<img src="https://komarev.com/ghpvc/?username=lemustech&label=Visitas+al+perfil&color=2997ff&style=flat-square" alt="Visitas al perfil" />
 
 </div>
