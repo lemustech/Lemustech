@@ -87,7 +87,7 @@ Graba tu pantalla y tu cámara en una burbuja flotante, dibuja en vivo con herra
 | **WhatsApp CRM Bots** | Bots y automatización de atención con Node.js (`whatsapp-web.js`), Python y Selenium. |
 | **Lemustech SystemBoost Hub** | Suite multiplataforma (Windows, macOS, Linux) de diagnóstico y optimización profunda del sistema. |
 | **[Asistente de Redacción IA](https://lemustech.net/clientes/herramientas)** | Herramienta web con IA que detecta textos duplicados y corrige el estilo con visor de cambios detallado, tonos personalizables e historial. |
-| **[AsaPokeTCG (Retro)](https://lemustech.net/clientes/Kelvin)** | Tienda oficial de cartas, cajas y accesorios Pokémon TCG: experiencia pixel-art estilo Game Boy con Web Audio API, catálogo en Firebase y pedidos por WhatsApp. También en vivo en [asapoketcg.com](https://asapoketcg.com/). |
+| **[AsaPokeTCG (Retro)](https://asapoketcg.com)** | Tienda oficial de cartas, cajas y accesorios Pokémon TCG: experiencia pixel-art estilo Game Boy con Web Audio API, catálogo en Firebase y pedidos por WhatsApp. |
 
 ## 📊 GitHub en números
 
