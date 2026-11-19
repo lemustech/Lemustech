@@ -64,9 +64,11 @@ Fundador de **Lemustech Co.** Construyo **sistemas administrativos, e-commerce y
 | **[EXPO GPM 2026](https://lemustech.net/clientes/expografica)** | Landing oficial de la 7ma edición del evento de Gráfica, Publicidad y Marketing (Caracas): registro, pases QR y WhatsApp. |
 | **[Lucky Paws Pet Services](https://lemustech.net/clientes/mascota)** | Sitio web para negocio de cuidado de mascotas (pet sitting & dog walking). |
 | **[Rastreo & Gestión · T&K Company](https://lemustech.net/clientes/tyk/index.html)** | Interfaz web corporativa en tiempo real para logística: pedidos, inventarios y estatus de pagos. |
+| **[MediTrans · MedX](https://lemustech.net/clientes/medx)** | Aplicación de movilidad médica VIP: traslados médicos con contacto directo por WhatsApp. |
 | **WhatsApp CRM Bots** | Bots y automatización de atención con Node.js (`whatsapp-web.js`), Python y Selenium. |
 | **Lemustech SystemBoost Hub** | Suite multiplataforma (Windows, macOS, Linux) de diagnóstico y optimización profunda del sistema. |
-| **[AsaPokeTCG (Retro)](https://asapoketcg.com/)** | Experiencia web inmersiva pixel-art estilo Game Boy con Web Audio API para una tienda TCG. |
+| **[Asistente de Redacción IA](https://lemustech.net/clientes/herramientas)** | Herramienta web con IA que detecta textos duplicados y corrige el estilo con visor de cambios detallado, tonos personalizables e historial. |
+| **[AsaPokeTCG (Retro)](https://lemustech.net/clientes/Kelvin)** | Tienda oficial de cartas, cajas y accesorios Pokémon TCG: experiencia pixel-art estilo Game Boy con Web Audio API, catálogo en Firebase y pedidos por WhatsApp. También en vivo en [asapoketcg.com](https://asapoketcg.com/). |
 
 ## 📊 GitHub en números
 
