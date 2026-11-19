@@ -30,6 +30,24 @@ Fundador de **Lemustech Co.** Construyo **sistemas administrativos, e-commerce y
 
 ---
 
+## 🌟 Proyecto más reciente
+
+<div align="center">
+
+### 🟣 [Loomus Studio](https://github.com/lemustech/loomus)
+
+**La suite de grabación de pantalla moderna, profesional y 100% privada para macOS y Apple Silicon.**
+Graba tu pantalla y tu cámara en una burbuja flotante, dibuja en vivo con herramientas neón y lee tu guion en un teleprompter invisible — sin límites de tiempo y sin subir tus videos a la nube. **Gratis y open source.**
+
+<img src="https://img.shields.io/badge/Platform-macOS%2013%2B-black?style=for-the-badge&logo=apple" alt="macOS 13+" />
+<img src="https://img.shields.io/badge/Apple%20Silicon-arm64-orange?style=for-the-badge&logo=apple" alt="Apple Silicon" />
+<img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="Licencia MIT" />
+<img src="https://img.shields.io/badge/Privacy-100%25%20Local--First-green?style=for-the-badge" alt="100% Local-First" />
+
+</div>
+
+---
+
 ## 🚀 Lo que hago
 
 - 🧾 **Sistemas administrativos & POS** — ventas, inventario y reportes en tiempo real con Firebase
@@ -57,6 +75,7 @@ Fundador de **Lemustech Co.** Construyo **sistemas administrativos, e-commerce y
 
 | Proyecto | Descripción |
 | :--- | :--- |
+| **[Loomus Studio](https://github.com/lemustech/loomus)** | Grabador de pantalla profesional y 100% privado para macOS (Apple Silicon): cámara flotante, anotaciones neón en vivo y teleprompter invisible. Open source (MIT). |
 | **[NegociOS Pro](https://github.com/lemustech/negociOS)** | Sistema administrativo y punto de venta (POS) en tiempo real con Firebase: ventas e inventario desde cualquier dispositivo. |
 | **[GV Soluciones Administrativas](https://solybusiness.com/gvsoluciones)** | Suite administrativa empresarial en tiempo real (Vue + Firebase) con integración por WhatsApp. |
 | **Lemustech Manager & Store** | CRM + e-commerce para la gestión de suscripciones digitales, seguimiento de clientes, renovaciones y pagos. |
